@@ -5,6 +5,7 @@
 
 | Problem | Solution |
 | ----------- | ----------- |
+[Probability Calculator](https://github.com/cseriildi/boilerplate-probability-calculator) | [prob_calculator.py](https://github.com/cseriildi/boilerplate-probability-calculator/blob/master/prob_calculator.py) |
 |[Polygon Area Calculator](https://github.com/cseriildi/boilerplate-polygon-area-calculator) | [shape_calculator.py](https://github.com/cseriildi/boilerplate-polygon-area-calculator/blob/master/shape_calculator.py) |
 | [Budget App](https://github.com/cseriildi/boilerplate-budget-app) | [budget.py](https://github.com/cseriildi/boilerplate-budget-app/blob/master/budget.py) |
 | [Time Calculator](https://github.com/cseriildi/time-calculator) | [time_calculator.py](https://github.com/cseriildi/time-calculator/blob/master/time_calculator.py) |
