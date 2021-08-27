@@ -10,4 +10,5 @@
 | [Budget App](https://github.com/cseriildi/boilerplate-budget-app) | [budget.py](https://github.com/cseriildi/boilerplate-budget-app/blob/master/budget.py) |
 | [Time Calculator](https://github.com/cseriildi/time-calculator) | [time_calculator.py](https://github.com/cseriildi/time-calculator/blob/master/time_calculator.py) |
 | [Arithmetic Formatter](https://github.com/cseriildi/arithmetic-formatter) | [arithmetic_arranger.py](https://github.com/cseriildi/arithmetic-formatter/blob/master/arithmetic_arranger.py) |
-| [25 Codewars Tasks](https://github.com/cseriildi/codewars_solutions) |
+
+[25 Codewars Tasks and solutions](https://github.com/cseriildi/codewars_solutions) 
