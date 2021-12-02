@@ -5,6 +5,7 @@
 
 | Problem | Solution |
 | ----------- | ----------- |
+[Advent of Code 2021](https://adventofcode.com/2021) | [Repository for solutions](https://github.com/cseriildi/advent_of_code_2021) |
 [Probability Calculator](https://github.com/cseriildi/boilerplate-probability-calculator) | [prob_calculator.py](https://github.com/cseriildi/boilerplate-probability-calculator/blob/master/prob_calculator.py) |
 |[Polygon Area Calculator](https://github.com/cseriildi/boilerplate-polygon-area-calculator) | [shape_calculator.py](https://github.com/cseriildi/boilerplate-polygon-area-calculator/blob/master/shape_calculator.py) |
 | [Budget App](https://github.com/cseriildi/boilerplate-budget-app) | [budget.py](https://github.com/cseriildi/boilerplate-budget-app/blob/master/budget.py) |
