@@ -1,5 +1,5 @@
 # Hi there 👋
-### I am a fresh graduate who is interested in Data Science and Machine Learning. I consider myself as curious and quick learner. Looking for an opportunity where I can use and develop my existing skills and deepen my knowledge in other relevant areas as well.
+### I am a mathematician, who is currently working as a Data Analyst. I am interested in Machine Learning, and I am looking for a Data Scientist opportunity. Although I am new in this field, but I consider myself a curious person and a fast learner and I can easily adapt to new environments thus I can quickly become a useful part of the team.
 
 ### You can check out here some of my solutions of programming tasks. 
 
