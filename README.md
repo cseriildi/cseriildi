@@ -2,9 +2,7 @@
 
 ### Check out some of my solutions of programming tasks. 
 
-[Advent of Code 2023](https://github.com/cseriildi/advent_of_code_2023) 
-
-[Advent of Code 2021](https://github.com/cseriildi/advent_of_code_2021) 
+Advent of Code: [2023](https://github.com/cseriildi/advent_of_code/tree/main/2023) | [2021](https://github.com/cseriildi/advent_of_code/tree/main/2021)
 
 [Probability Calculator](https://github.com/cseriildi/boilerplate-probability-calculator) 
 
