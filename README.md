@@ -11,4 +11,6 @@ Advent of Code:
 
 [Cloudflight Coding Contest](https://github.com/cseriildi/Cloudflight-Coding-Contest)
 
+[Everybody Codes](https://github.com/cseriildi/Everybody-codes)
+
 [Codewars](https://github.com/cseriildi/codewars_solutions) 
